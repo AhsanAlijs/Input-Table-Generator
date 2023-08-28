@@ -74,7 +74,7 @@ body{
         
     }
     .image{
-        width: 20rem;
+        width: 5rem;
         object-fit: contain;
     }
     
@@ -98,9 +98,9 @@ body{
 
         
     }
-    .image{
+    /* .image{
         width: 5rem;
         object-fit: contain;
-    }
+    } */
     
 }
