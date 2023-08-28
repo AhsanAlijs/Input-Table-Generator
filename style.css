@@ -73,11 +73,6 @@ body{
         font-size: 20px;
         
     }
-    .image{
-        width: 5rem;
-        object-fit: contain;
-    }
-    
 }
 
 @media (min-width:200px) {
